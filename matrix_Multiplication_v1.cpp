@@ -167,6 +167,9 @@ class MatrixMultiply{
 		int col;	// col_end
         char * filepath;
 };
+
+int * MatrixMultiply::matrix = new int [1024*1024];
+
 /*
 int main(){
 	MatrixMultiply mm("dataset.txt");

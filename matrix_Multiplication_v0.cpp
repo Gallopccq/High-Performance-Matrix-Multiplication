@@ -145,11 +145,11 @@ class MatrixMultiply{
         }
         
         ~MatrixMultiply(){
-            cout<<"hello?"<<endl;
+            // cout<<"hello?"<<endl;
         	delete matrix;
-        	delete matrix_first;
-            if(matrix_first!=matrix_second)
-                delete matrix_second;
+        	// delete matrix_first;
+            // if(matrix_first!=matrix_second)
+                // delete matrix_second;
         	cout<<"delete success"<<endl;
         }
 	

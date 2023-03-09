@@ -1,0 +1,75 @@
+task 0 : matrix 0 * matrix 0
+run time = 15706ms
+task 1 : matrix 0 * matrix 1
+run time = 15259ms
+task 2 : matrix 0 * matrix 2
+run time = 15840ms
+task 3 : matrix 0 * matrix 3
+run time = 15800ms
+task 4 : matrix 0 * matrix 4
+run time = 16272ms
+task 5 : matrix 0 * matrix 5
+run time = 15748ms
+task 6 : matrix 1 * matrix 0
+run time = 15234ms
+task 7 : matrix 1 * matrix 1
+run time = 15490ms
+task 8 : matrix 1 * matrix 2
+run time = 15510ms
+task 9 : matrix 1 * matrix 3
+run time = 15565ms
+task 10 : matrix 1 * matrix 4
+run time = 15820ms
+task 11 : matrix 1 * matrix 5
+run time = 15171ms
+task 12 : matrix 2 * matrix 0
+run time = 15070ms
+task 13 : matrix 2 * matrix 1
+run time = 15140ms
+task 14 : matrix 2 * matrix 2
+run time = 15652ms
+task 15 : matrix 2 * matrix 3
+run time = 15343ms
+task 16 : matrix 2 * matrix 4
+run time = 16018ms
+task 17 : matrix 2 * matrix 5
+run time = 15077ms
+task 18 : matrix 3 * matrix 0
+run time = 15502ms
+task 19 : matrix 3 * matrix 1
+run time = 15138ms
+task 20 : matrix 3 * matrix 2
+run time = 15417ms
+task 21 : matrix 3 * matrix 3
+run time = 15218ms
+task 22 : matrix 3 * matrix 4
+run time = 16230ms
+task 23 : matrix 3 * matrix 5
+run time = 15310ms
+task 24 : matrix 4 * matrix 0
+run time = 14985ms
+task 25 : matrix 4 * matrix 1
+run time = 14947ms
+task 26 : matrix 4 * matrix 2
+run time = 15568ms
+task 27 : matrix 4 * matrix 3
+run time = 16289ms
+task 28 : matrix 4 * matrix 4
+run time = 17122ms
+task 29 : matrix 4 * matrix 5
+run time = 15650ms
+task 30 : matrix 5 * matrix 0
+run time = 16412ms
+task 31 : matrix 5 * matrix 1
+run time = 14978ms
+task 32 : matrix 5 * matrix 2
+run time = 15880ms
+task 33 : matrix 5 * matrix 3
+run time = 15330ms
+task 34 : matrix 5 * matrix 4
+run time = 16456ms
+task 35 : matrix 5 * matrix 5
+run time = 16601ms
+Include :
+avg time: 15631.9ms
+stddev: 520.286ms
